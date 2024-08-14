@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Beli Bensin",
+        "nominal": 200000,
+        "type": "expense",
+        "category": "transport",
+        "date": "2024-08-09"
+    },
+    {
+        "id": 2,
+        "title": "Beli Bensin",
+        "nominal": 200000,
+        "type": "expense",
+        "category": "transport",
+        "date": "2024-08-09"
+    }
+]
