@@ -6,5 +6,6 @@ const router = Router()
 
 router.use('/expenses', expenseRouter)
 router.use('/v2/expense', expenseRouterV2)
+router.use('/', )
 
 export default router
